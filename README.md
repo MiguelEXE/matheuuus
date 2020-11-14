@@ -33,5 +33,4 @@ Olá, me chamo **Matheus**, um estudante de programação que sonha se tornar um
 ![Sass](https://img.shields.io/badge/-Sass-000000?style=for-the-badge&logo=sass&logoColor=cd6799)
 ![Electron](https://img.shields.io/badge/-electron-000000?style=for-the-badge&logo=electron)
 ![Python](https://img.shields.io/badge/-python-000000?style=for-the-badge&logo=python)
-
 ![Angular](https://img.shields.io/badge/-angular-000000?style=for-the-badge&logo=angular)
